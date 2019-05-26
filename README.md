@@ -1,4 +1,4 @@
-# wc-l
+# unix-wc-l
 
 Fast `wc -l <filename>` promise for node.js.
 
@@ -7,7 +7,7 @@ Fast `wc -l <filename>` promise for node.js.
 file](https://stackoverflow.com/q/12453057))
 
 ```
-var wcL = require('wc-l')
+var wcL = require('unix-wc-l')
 
 wcL('test.txt').then((nlines) => {
   console.log(`test.txt has ${nlines} lines`)
