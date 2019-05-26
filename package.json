@@ -1,12 +1,16 @@
 {
   "name": "unix-wc-l",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "wc -l for node from SO (https://stackoverflow.com/a/41439945)",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/gpryor/unix-wc-l.git"
+  },
   "keywords": ["unix", "wc", "shell", "commandline"],
-  "author": "",
+  "author": "Gallagher Pryor",
   "license": "ISC"
 }
