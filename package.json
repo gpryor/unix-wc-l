@@ -1,12 +1,12 @@
 {
-  "name": "wc-l",
+  "name": "unix-wc-l",
   "version": "1.0.0",
-  "description": "",
+  "description": "wc -l for node from SO (https://stackoverflow.com/a/41439945)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
-  "keywords": [],
+  "keywords": ["unix", "wc", "shell", "commandline"],
   "author": "",
   "license": "ISC"
 }
