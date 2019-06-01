@@ -1,6 +1,6 @@
 {
   "name": "unix-wc-l",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "wc -l for node from SO (https://stackoverflow.com/a/41439945)",
   "main": "index.js",
   "scripts": {

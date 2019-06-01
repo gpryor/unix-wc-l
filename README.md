@@ -1,5 +1,7 @@
 # unix-wc-l
 
+[![Build Status](https://travis-ci.org/gpryor/unix-wc-l.svg?branch=master)](https://travis-ci.org/gpryor/unix-wc-l)
+
 Fast `wc -l <filename>` promise for node.js.
 
 (from [Emil Vikström SO answer](https://stackoverflow.com/a/41439945) to
